@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anirban-star
 - 👀 I’m interested in python projects
 - 🌱 I’m currently learning python
-- 💞️ I’m looking for first coding internship
+- 💞️ I’m doing B-tech on electrical engneering from techno main salt lake
 - 📫 mail me @anirbandas588@gmail.com
 
 <!---
