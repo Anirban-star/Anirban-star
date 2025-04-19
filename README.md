@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Anirban-star
-- 👀 I’m interested in python projects
-- 🌱 I’m currently learning python
-- 💞️ I’m doing B-tech on electrical engneering from techno main salt lake
+- 👋 Hi, I’m @Anirban-D
+- 👀 I’m interested in Electrical vehicle projects
+- 🌱 I’m currently learning Matlab and brushing my knowledge on circuit theory and power electronics
+- 💞️ I’m doing apprenticeship engineering from adani power
 - 📫 mail me @anirbandas588@gmail.com
 
 <!---
